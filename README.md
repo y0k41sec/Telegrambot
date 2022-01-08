@@ -1,3 +1,3 @@
 # Telegrambot
 
-Creating a telegram bot that will help me with some tasks.
+Creating a telegram bot with Python that will help me with some tasks.
